@@ -31,7 +31,7 @@ jobs:
         id: generate-snake
         uses: ./
         with:
-          github_user_name: platane
+          github_user_name: rnsribeiro
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -110,3 +110,4 @@ jobs:
           build_dir: packages/demo/dist
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN_GH_PAGES }}
+
