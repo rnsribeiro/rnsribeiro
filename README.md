@@ -28,4 +28,4 @@
   
  ##
   
-![snake gif](https://github.com/rnsribeiro/rnsribeiro/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/rnsribeiro/rnsribeiro/blob/output/github-contribution-grid-snake.svg)
