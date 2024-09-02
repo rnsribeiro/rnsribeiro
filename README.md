@@ -12,7 +12,7 @@
   <img align="center" alt="Rodrigo-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Rodrigo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Rodrigo-Solidity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg">
-  <img align="center" alt="Rodrigo-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
+  <img align="center" alt="Rodrigo-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
   <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rodrigo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Rodrigo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
