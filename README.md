@@ -116,10 +116,8 @@ Abril de 2022 a marco de 2025
 ## Estatisticas
 
 <div align="center">
-  <a href="https://github.com/rnsribeiro">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=rnsribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats de Rodrigo" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnsribeiro&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais usadas por Rodrigo" />
-  </a>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rnsribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats de Rodrigo">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rnsribeiro&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Rodrigo">
 </div>
 
 <div align="center">
