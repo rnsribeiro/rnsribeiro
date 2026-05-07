@@ -24,6 +24,7 @@ Também tenho interesse contínuo em construir soluções práticas, com foco em
 - Code review, manutenção e evolução de software
 - Deploy em ambientes de homologação e produção
 - Automação de fluxos e integrações com N8N
+- Desenvolvimento de soluções em blockchain, tokenização e contratos inteligentes
 - Atuação com sistemas embarcados, IoT e desenvolvimento de baixo nível
 
 ## Áreas de especialidade
@@ -43,6 +44,70 @@ SQL, NoSQL, Linux, Docker, virtualização e Bash/Shell
 ### Mobile, desktop e outros fundamentos
 
 Android, Kivy, Gtkmm, C, C++, Lua, OpenGL, SDL, Raylib, Solidity e Blockchain
+
+## Projetos e soluções desenvolvidas
+
+### Blockchain, tokenização e Web3
+
+- Experiência com contratos inteligentes em Solidity
+- Integrações com blockchain Polygon e uso de ferramentas como Alchemy
+- Projetos com foco em tokenização, NFTs, rastreabilidade e armazenamento de mensagens
+- Atuação em projetos públicos e privados na área, com uso de Go, JavaScript e Solidity
+
+Projetos públicos relacionados:
+- [interact-polygon](https://github.com/rnsribeiro/interact-polygon)
+- [message-storage](https://github.com/rnsribeiro/message-storage)
+- [ItemSupplyChain](https://github.com/rnsribeiro/ItemSupplyChain)
+- [KryptoBirdz](https://github.com/rnsribeiro/KryptoBirdz)
+- [cryptoket](https://github.com/rnsribeiro/cryptoket)
+
+### Finanças, trading e automação
+
+- Desenvolvimento de soluções para controle financeiro pessoal
+- Projetos voltados a bots, indicadores e rotinas para mercado financeiro
+- Experiência com automação, processamento de dados e aplicações orientadas a regras de negócio
+
+Projetos públicos relacionados:
+- [MoneyControl](https://github.com/rnsribeiro/MoneyControl)
+- [coinbot](https://github.com/rnsribeiro/coinbot)
+- [bitbot](https://github.com/rnsribeiro/bitbot)
+- [cointrader](https://github.com/rnsribeiro/cointrader)
+- [Indicadores_Profit_Chart](https://github.com/rnsribeiro/Indicadores_Profit_Chart)
+
+### Sistemas embarcados, IoT e automação física
+
+- Desenvolvimento com Raspberry Pi Pico W e BitDogLab
+- Projetos com dispositivos, sensores, controle físico e integração entre software e hardware
+- Soluções para automação de alimentação pet, relógios binários e experimentos embarcados
+
+Projetos públicos relacionados:
+- [Embarcatech](https://github.com/rnsribeiro/Embarcatech)
+- [BinaryClock-BitDogLab](https://github.com/rnsribeiro/BinaryClock-BitDogLab)
+- [DispenserAutomaticoPets](https://github.com/rnsribeiro/DispenserAutomaticoPets)
+- [SmartPet-API](https://github.com/rnsribeiro/SmartPet-API)
+- [SmartPetz-Front](https://github.com/rnsribeiro/SmartPetz-Front)
+
+### Plataformas web, turismo e sistemas de negócio
+
+- Desenvolvimento de plataformas para turismo, catálogos, cardápios, hábitos e sistemas de gestão
+- Aplicações com foco em experiência do usuário, regras de negócio e integração com banco de dados
+- Atuação com stacks modernas em TypeScript, Next.js, Vue, Nuxt, Laravel e Supabase
+
+Projetos públicos relacionados:
+- [habittrack](https://github.com/rnsribeiro/habittrack)
+- [criativa-store](https://github.com/rnsribeiro/criativa-store)
+- [foodtruck](https://github.com/rnsribeiro/foodtruck)
+- [next-food-ordering-app](https://github.com/rnsribeiro/next-food-ordering-app)
+- [next-app-db](https://github.com/rnsribeiro/next-app-db)
+
+### Aplicações desktop e ferramentas utilitárias
+
+- Desenvolvimento de aplicações desktop com Python, PySide6 e Kivy
+- Ferramentas para produtividade, contagem de conteúdo e controle de estoque
+
+Projetos públicos relacionados:
+- [controle-estoque-pyside6](https://github.com/rnsribeiro/controle-estoque-pyside6)
+- [countwords](https://github.com/rnsribeiro/countwords)
 
 ## Stack visual
 
