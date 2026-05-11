@@ -1,7 +1,7 @@
 # Rodrigo Nunes Sampaio Ribeiro
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Arquitetura+de+sistemas%2C+APIs+e+deploy;IA+aplicada%2C+IoT%2C+automa%C3%A7%C3%A3o+e+sistemas+embarcados" alt="Resumo profissional de Rodrigo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Arquitetura+de+sistemas%2C+APIs+e+deploy;IA+aplicada%2C+vis%C3%A3o+computacional%2C+IoT+e+sistemas+embarcados" alt="Resumo profissional de Rodrigo" />
 </div>
 
 <div align="center">
@@ -24,6 +24,7 @@ Também tenho interesse contínuo em construir soluções práticas, com foco em
 - Code review, manutenção e evolução de software
 - Deploy em ambientes de homologação e produção
 - Automação de fluxos e integrações com N8N
+- Aplicações e estudos em visão computacional
 - Desenvolvimento de soluções em blockchain, tokenização e contratos inteligentes
 - Atuação com sistemas embarcados, IoT e desenvolvimento de baixo nível
 
@@ -36,6 +37,10 @@ JavaScript, TypeScript, React, Vue, Next.js, Nuxt, HTML e CSS
 ### Back-end
 
 Node.js, Python, FastAPI, Go, PHP, Java e Kotlin
+
+### IA aplicada e visão computacional
+
+Automação com IA, visão computacional e integração de soluções inteligentes a produtos e fluxos de software
 
 ### Banco de dados e infraestrutura
 
@@ -144,6 +149,7 @@ Projetos públicos relacionados:
 
 ## Formação complementar
 
+- Trilha de Visão Computacional, Nexvisual / Instituto de Pesquisas Eldorado, 60h, concluída em 11 de maio de 2026
 - Residência Tecnológica em Sistemas Embarcados - Capacitação Avançada, Instituto Hardware BR, 120h, 2025
 - Residência Tecnológica em Sistemas Digitais - Capacitação Básica, Instituto Hardware BR, 400h, 2025
 - Agentes de IA com N8N, Udemy, concluído em 5 de abril de 2025
