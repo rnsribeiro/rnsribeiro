@@ -8,6 +8,7 @@
   <a href="mailto:rnsribeiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/rodrigo-nsribeiro/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/rnsribeiro"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://raw.githubusercontent.com/rnsribeiro/rnsribeiro/main/curriculum-rodrigo.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo em PDF" /></a>
 </div>
 
 ## Sobre mim
